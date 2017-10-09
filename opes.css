@@ -1,0 +1,22 @@
+body {
+	font-family: "Copperplate Gothic Light";
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+img {
+	width: 37%;
+	height: 30%;
+}
+
+#CATCHPHRASE {
+	font-size: 24px;
+}
+
+#about {
+	font-size: 18px;
+	width: 40%;
+}
