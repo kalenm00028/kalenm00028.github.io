@@ -1,5 +1,5 @@
 body {
-	font-family: "Copperplate Gothic Light";
+	font-family: "Copperplate Gothic Light", sans-serif;
 	font-weight: bold;
 }
 
@@ -7,9 +7,14 @@ h1 {
 	font-size: 48px;
 }
 
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+}
+
 img {
-	width: 37%;
-	height: 30%;
+	width: 352px;
+	height: 218px;
 }
 
 #CATCHPHRASE {
